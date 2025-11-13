@@ -1,0 +1,44 @@
+========================================
+         START HERE!
+   BAS VEEG ARC FPS - GAME ON USB
+========================================
+
+HEY CLASSMATE! 👋
+
+EASIEST WAY TO PLAY (3 STEPS):
+
+1️⃣ COPY
+   Copy the "Xonotic" folder to your Desktop
+
+2️⃣ INSTALL  
+   Open Desktop\Xonotic\
+   RIGHT-CLICK → "INSTALL-BAS-VEEG-ARC.bat"
+   Select "Run as Administrator"
+   
+3️⃣ PLAY!
+   Desktop shortcut will appear
+   Double-click "Play Bas Veeg Arc"
+   SELECT YOUR CHARACTER!
+
+========================================
+
+📁 Xonotic folder = THE GAME (1.7 GB)
+
+📝 EASIEST-INSTALL-INSTRUCTIONS.txt = DETAILED GUIDE
+
+🎮 13 CHARACTERS TO CHOOSE FROM!
+
+========================================
+
+ALTERNATIVE (NO INSTALL):
+
+Just open Xonotic folder and 
+double-click: PLAY-BAS-VEEG-ARC.bat
+
+(No admin rights needed!)
+
+========================================
+
+Questions? Check the README files!
+
+Have fun! 🎮

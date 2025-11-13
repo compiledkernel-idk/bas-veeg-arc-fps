@@ -1,0 +1,73 @@
+========================================
+   BAS VEEG ARC - EASIEST INSTALL
+   FOR WINDOWS USERS
+========================================
+
+SUPER EASY METHOD - 3 CLICKS!
+
+STEP 1: Copy Folder from USB
+→ Copy the "Xonotic" folder from this USB to your Desktop
+
+STEP 2: Run Installer
+→ Go to Desktop\Xonotic\
+→ RIGHT-CLICK on "INSTALL-BAS-VEEG-ARC.bat"
+→ Select "Run as Administrator"
+→ Click "Yes" when asked
+
+STEP 3: Done!
+→ Wait for installation to complete
+→ Desktop shortcuts will appear!
+→ Double-click "Play Bas Veeg Arc" to play!
+
+========================================
+WHAT THE INSTALLER DOES:
+========================================
+
+✓ Copies game to: C:\Program Files\BasVeegArc\
+✓ Creates Desktop shortcut: "Play Bas Veeg Arc"
+✓ Creates Desktop shortcut: "Host Bas Veeg Server"
+✓ Creates Start Menu folder with shortcuts
+✓ Asks if you want to launch the game now
+
+========================================
+AFTER INSTALLATION:
+========================================
+
+TO PLAY:
+→ Double-click "Play Bas Veeg Arc" on Desktop
+→ Or find in Start Menu
+
+TO HOST SERVER:
+→ Double-click "Host Bas Veeg Server" on Desktop
+→ Share your IP with friends
+
+TO UNINSTALL:
+→ Start Menu → Bas Veeg Arc → Uninstall
+→ Or run UNINSTALL.bat as Administrator
+
+========================================
+NO INSTALLER METHOD (PORTABLE):
+========================================
+
+Don't want to install? Just:
+1. Copy "Xonotic" folder anywhere
+2. Double-click PLAY-BAS-VEEG-ARC.bat
+3. Play!
+
+No admin rights needed for portable method!
+
+========================================
+FOR LINUX USERS:
+========================================
+
+1. Copy Xonotic folder
+2. Open terminal in that folder
+3. Run: chmod +x *.sh
+4. Run: ./PLAY-BAS-VEEG-ARC.sh
+
+========================================
+
+INSTALLER FILE: Xonotic\INSTALL-BAS-VEEG-ARC.bat
+SIZE: 1.7 GB installed
+
+Have fun! 🎮
