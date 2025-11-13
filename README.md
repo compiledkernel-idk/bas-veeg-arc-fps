@@ -64,5 +64,3 @@ Share your IP with classmates to let them join!
 See INSTALL.txt, HOW_TO_PLAY.md, and WINDOWS_INSTALL.md for detailed guides.
 
 ---
-
-**Made in 3 hours | November 2025**
