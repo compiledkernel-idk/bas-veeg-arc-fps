@@ -1,0 +1,39 @@
+========================================
+   BAS VEEG ARC - SUPER SIMPLE SETUP
+========================================
+
+FOR CLASSMATES - 3 CLICKS TO PLAY!
+
+STEP 1: DOWNLOAD XONOTIC
+→ Go to: https://xonotic.org/download/
+→ Download: "Xonotic 0.8.6 (ZIP for Windows)"
+→ Extract to Desktop or C:\Games\
+
+STEP 2: INSTALL MOD
+→ Download: BasVeegArc-v0.2-BRANDED.pk3
+   (from GitHub release or get from friend)
+→ Copy it to: Xonotic\data\
+→ Download launcher scripts from GitHub
+→ Copy to: Xonotic\ folder
+
+STEP 3: PLAY!
+→ Double-click: PLAY-BAS-VEEG-ARC.bat
+→ Select your character
+→ PLAY!
+
+========================================
+EVEN EASIER METHOD:
+========================================
+
+Ask a friend who has it installed to:
+1. Copy their entire "Xonotic" folder to USB drive
+2. Give USB to you
+3. Copy folder to your computer
+4. Double-click PLAY-BAS-VEEG-ARC.bat
+5. DONE!
+
+========================================
+
+Questions? Check README.md or ask in your class group!
+
+Have fun! 🎮
