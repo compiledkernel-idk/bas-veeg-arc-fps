@@ -1,0 +1,6 @@
+// Bas Veeg Arc - Menu Customization
+// Custom game title and menu settings
+
+NAME "Bas Veeg Arc"
+TITLE "Bas Veeg Arc - FPS Edition"
+DESCRIPTION "13 Classmates. 1 Epic Battle."

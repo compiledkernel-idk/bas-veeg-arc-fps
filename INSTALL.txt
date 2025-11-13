@@ -1,0 +1,198 @@
+========================================
+   BAS VEEG ARC - FPS EDITION v0.2
+   13 Classmates. 1 Epic Battle.
+========================================
+
+QUICK START FOR CLASSMATES:
+
+STEP 1: INSTALL
+- Extract this folder anywhere (e.g., C:\Games\BasVeegArc\)
+- No installation needed!
+
+STEP 2: PLAY
+- Double-click "PLAY-BAS-VEEG-ARC.bat" (Windows)
+- Or "PLAY-BAS-VEEG-ARC.sh" (Linux)
+
+STEP 3: SELECT YOUR CHARACTER
+- In game: Multiplayer → Create
+- Scroll through player models
+- Pick your classmate!
+
+========================================
+THE 13 CHARACTERS
+========================================
+
+1. Bas Veeg - The Leader
+2. Berkay - Damage Master
+3. Gefferinho - Berserker
+4. Hadi - Speed Demon
+5. Luca - Power Tank
+6. Nitin - Fire Specialist
+7. Yigit Baba - Ultimate Warrior
+8. Fufinho - Projectile King
+9. Efe abi - Balanced Fighter
+10. Jad - Fast Attacker
+11. Umut - Damage Boost
+12. Keizer Bom Taha - Explosives Expert
+13. Goon Lord Tobese - Tank
+
+========================================
+HOSTING A PRIVATE SERVER (CLASSMATES ONLY)
+========================================
+
+FOR THE HOST:
+1. Double-click "START-CLASSMATES-SERVER.bat" (Windows)
+   Or "START-CLASSMATES-SERVER.sh" (Linux)
+
+2. Server starts on port 26000
+   - Max 13 players (one for each classmate!)
+   - Private (not listed publicly)
+   - Allows ping up to 500ms
+
+3. Share your IP address:
+   Windows: Open Command Prompt, type: ipconfig
+   Linux: The script shows your IPs automatically
+
+4. Tell your classmates your IP (e.g., 192.168.1.100)
+
+FOR FRIENDS JOINING:
+1. Launch game: "PLAY-BAS-VEEG-ARC.bat"
+2. Go to: Multiplayer → Server List
+3. Click "Search LAN" (if on same WiFi)
+   OR
+   Click "Address" → Enter host's IP → Join
+4. Select your character
+5. PLAY!
+
+========================================
+GAME MODES
+========================================
+
+- Deathmatch (FFA) - Every man for himself
+- Team Deathmatch - Red vs Blue team battle
+- Capture the Flag - Classic CTF
+- Clan Arena - Round-based elimination
+- And many more!
+
+========================================
+RECOMMENDED MAPS FOR 13 PLAYERS
+========================================
+
+- Afterslime - Medium arena (best for 13 players)
+- Stormkeep - Large fortress
+- Dance - Fast-paced close combat
+- Bloodrun - Classic dueling map
+- Warfare - Large battlefield
+
+========================================
+CONTROLS (DEFAULT)
+========================================
+
+WASD - Move
+Mouse - Aim
+Left Click - Shoot
+Right Click - Secondary fire
+Space - Jump
+Ctrl - Crouch
+Shift - Walk
+1-9 - Switch weapons
+~ (tilde) - Console
+
+========================================
+CONSOLE COMMANDS (USEFUL)
+========================================
+
+Press ~ to open console, then type:
+
+_cl_playermodel bas        - Switch to Bas
+_cl_playermodel berkay     - Switch to Berkay
+(etc for all characters)
+
+connect 192.168.1.100      - Join server by IP
+disconnect                 - Leave server
+quit                       - Exit game
+
+========================================
+TROUBLESHOOTING
+========================================
+
+Q: Characters don't appear?
+A: Make sure BasVeegArc-v0.2-BRANDED.pk3 is in the data/ folder
+
+Q: Can't join friend's server?
+A: Check you're on same WiFi network
+   Check Windows Firewall allows Xonotic
+   Try manual IP entry
+
+Q: Game won't start?
+A: Try xonotic-wgl.exe instead
+   Update graphics drivers
+   Run as Administrator
+
+Q: All characters look the same?
+A: Normal! They use same model but have different names/stats
+
+========================================
+WHAT'S INCLUDED
+========================================
+
+Files in this folder:
+- PLAY-BAS-VEEG-ARC.bat/sh - Game launcher
+- START-CLASSMATES-SERVER.bat/sh - Private server
+- data/BasVeegArc-v0.2-BRANDED.pk3 - The mod (13 characters)
+- data/server-classmates.cfg - Server configuration
+- All Xonotic game files
+
+========================================
+SYSTEM REQUIREMENTS
+========================================
+
+Minimum:
+- Windows 7+ or Linux
+- 2 GB RAM
+- Any graphics card
+- 2 GB disk space
+- Internet/LAN for multiplayer
+
+Recommended:
+- Windows 10/11
+- 4 GB RAM
+- Dedicated graphics
+- 3 GB disk space
+
+========================================
+SHARING WITH MORE CLASSMATES
+========================================
+
+Option 1: Copy entire folder to USB drive
+Option 2: Upload to Google Drive and share link
+Option 3: Put on school network shared folder
+
+Everyone gets the same folder = Everyone can play!
+
+========================================
+CREDITS
+========================================
+
+Game Engine: Xonotic 0.8.6 (GPL v3)
+Characters: Your 13 classmates
+Mod Creator: Bas Veeg Arc Team
+Development Time: 3 hours
+Version: 0.2 (Branded Edition)
+Release Date: 2025-11-13
+
+========================================
+HAVE FUN!
+========================================
+
+This is version 0.2 with full branding and private server support.
+
+More features coming soon:
+- Unique character colors
+- Special abilities
+- Custom maps
+- Voice lines
+
+Enjoy the game with your classmates!
+
+========================================

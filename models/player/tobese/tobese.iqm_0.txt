@@ -1,0 +1,13 @@
+name Goon Lord Tobese
+species human
+sex Male
+weight 108
+age 17
+description Ik hou van padme! - Tank with Health and Speed Boost
+bone_upperbody spine2
+bone_aim0 0.25 spine2
+bone_aim1 0.4 spine4
+bone_aim2 0.2 upperarm_L
+bone_aim3 0.35 bip01 r hand
+bone_weapon bip01 r hand
+fixbone 1
